@@ -1,0 +1,49 @@
+:root{
+    background-color: pink;
+}
+
+
+
+#outer-div {
+    background-color: grey;
+    height: 450px;
+    width: 320px;
+    position: relative;
+    top: 15vh;
+    left: 20%;
+}
+
+#heading {
+    background-color: black;
+    height: 40px;
+}
+
+#heading h1 {
+    color: white;
+    text-align: center;
+}
+
+#result {
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    margin: 3px;
+}
+
+table tr td {
+    width: px;
+}
+
+table tr td input {
+    width: 71px;
+    height: 65px;
+}
+
+table tr td input:hover {
+    background-color: orange;
+}
+
+.op {
+    background-color: black;
+    color:white;
+}
